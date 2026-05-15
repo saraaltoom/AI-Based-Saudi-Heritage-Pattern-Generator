@@ -1,0 +1,23 @@
+﻿Image_Name,Region,Density,Complexity,Colors,Motif,Symmetry,Description
+pattern_1_vector.png,Asiri,Medium,Medium,"Blue, Black, Pink",Geometric,Yes,Balanced Asiri pattern with a central geometric star.
+pattern_3_vector.png,Sadu,Dense,High,"Purple, Yellow, Black","Lines, Triangles",Yes,Dense Sadu pattern with repetitive vertical lines.
+pattern_4_vector.png,Najdi,Medium,Medium,"Orange, Blue, Brown",Triangles,Yes,Najdi geometric pattern with triangles and a central circle.
+pattern_5_vector.png,Asiri,Dense,High,"Pink, Black, Cyan",Geometric,Yes,Highly complex Asiri pattern with cross-axial motifs.
+pattern_6_vector.png,Sadu,Sparse,Low,"Blue, Orange, Grey",Lines,Yes,Simple Sadu design with a central spine line.
+pattern_7_vector.png,Sadu,Dense,Medium,"Green, Black, Pink",Lines,Yes,Dense Sadu pattern with repetitive zigzag line motifs.
+pattern_8_vector.png,Asiri,Dense,High,"Black, Yellow, Cyan","Grid, Dots",Yes,Complex Asiri grid with serrated edges and dot details.
+pattern_9_vector.png,Najdi,Medium,Low,"Orange, Pink, Brown","Lines, Dots",Yes,Clean Najdi layout with vertical lines and dotted accents.
+pattern_10_vector.png,Najdi,Sparse,Medium,"Brown, White, Green","Triangles, Lines",No,Najdi-style diamond with asymmetrical arrow-like rays.
+pattern_11_vector.png,Najdi,Dense,Medium,"Cyan, Black",Grid,Yes,High-density Najdi checkerboard grid pattern.
+pattern_12_vector.png,Asiri,Medium,High,"Brown, Teal, Orange","Geometric, Dots",Yes,Layered Asiri diamond motif with intricate dotted borders.
+pattern_13_vector.png,Sadu,Sparse,Low,"Beige, Brown, Green",Triangles,Yes,Simple Sadu border with upper and lower triangles.
+pattern_14_vector.png,Najdi,Sparse,Low,"Navy, Orange, Yellow",Geometric,Yes,Minimalist Najdi star motif on a dark background.
+pattern_15_vector.png,Sadu,Medium,Medium,"White, Blue, Yellow",Lines,No,Sadu tree-like motifs with varied vertical placements.
+pattern_16_vector.png,Najdi,Sparse,Low,"Beige, Green, Brown",Geometric,Yes,Basic Najdi representation of a tree using triangles.
+pattern_17_vector.png,Asiri,Dense,High,"Red, Blue, Yellow",Grid,Yes,High complexity Asiri mosaic with a dense grid structure.
+pattern_18_vector.png,Asiri,Dense,High,"Lime, Cyan, Pink","Lines, Dots",No,Complex Asiri vertical stripes with asymmetrical accents.
+pattern_20_vector.png,Najdi,Sparse,Low,"Blue, Orange, Black",Geometric,Yes,Simple Najdi star with internal dotted line segments.
+pattern_21_vector.png,Najdi,Medium,Medium,"Yellow, Pink, Blue","Grid, Triangles",Yes,Balanced Najdi pattern with layered geometric squares.
+pattern_22_vector.png,Sadu,Sparse,Low,"Red, Black, White","Triangles, Lines",Yes,Traditional Sadu pattern with basic line and triangle motifs.
+pattern_23_vector.png,Najdi,Sparse,Low,"Brown, Yellow, White",Triangles,Yes,Minimalist Najdi triangle motif on a solid background.
+pattern_24_vector.png,Asiri,Medium,Medium,"Orange, Black, Blue","Dots, Geometric",Yes,Balanced Asiri motif with a central star and dot accents.

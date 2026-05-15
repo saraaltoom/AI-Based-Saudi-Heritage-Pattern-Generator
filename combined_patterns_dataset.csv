@@ -1,0 +1,124 @@
+Image_Name,Region,Density,Complexity,Colors,Motif,Symmetry,Description
+pattern_1_vector.png,Asiri,Medium,Medium,"Blue, Black, Pink",Geometric,Yes,Balanced Asiri pattern with a central geometric star.
+pattern_3_vector.png,Sadu,Dense,High,"Purple, Yellow, Black",Lines / Triangles,Yes,Dense Sadu pattern with repetitive vertical lines.
+pattern_4_vector.png,Najdi,Medium,Medium,"Orange, Blue, Brown",Triangles,Yes,Najdi geometric pattern with triangles and a central circle.
+pattern_5_vector.png,Asiri,Dense,High,"Pink, Black, Cyan",Geometric,Yes,Highly complex Asiri pattern with cross-axial motifs.
+pattern_6_vector.png,Sadu,Sparse,Low,"Blue, Orange, Grey",Lines,Yes,Simple Sadu design with a central spine line.
+pattern_7_vector.png,Sadu,Dense,Medium,"Green, Black, Pink",Lines,Yes,Dense Sadu pattern with repetitive zigzag line motifs.
+pattern_8_vector.png,Asiri,Dense,High,"Black, Yellow, Cyan",Grid / Dots,Yes,Complex Asiri grid with serrated edges and dot details.
+pattern_9_vector.png,Najdi,Medium,Low,"Orange, Pink, Brown",Lines / Dots,Yes,Clean Najdi layout with vertical lines and dotted accents.
+pattern_10_vector.png,Najdi,Sparse,Medium,"Brown, White, Green",Triangles / Lines,No,Najdi-style diamond with asymmetrical arrow-like rays.
+pattern_11_vector.png,Najdi,Dense,Medium,"Cyan, Black",Grid,Yes,High-density Najdi checkerboard grid pattern.
+pattern_12_vector.png,Asiri,Medium,High,"Brown, Teal, Orange",Geometric / Dots,Yes,Layered Asiri diamond motif with intricate dotted borders.
+pattern_13_vector.png,Sadu,Sparse,Low,"Beige, Brown, Green",Triangles,Yes,Simple Sadu border with upper and lower triangles.
+pattern_14_vector.png,Najdi,Sparse,Low,"Navy, Orange, Yellow",Geometric,Yes,Minimalist Najdi star motif on a dark background.
+pattern_15_vector.png,Sadu,Medium,Medium,"White, Blue, Yellow",Lines,No,Sadu tree-like motifs with varied vertical placements.
+pattern_16_vector.png,Najdi,Sparse,Low,"Beige, Green, Brown",Geometric,Yes,Basic Najdi representation of a tree using triangles.
+pattern_17_vector.png,Asiri,Dense,High,"Red, Blue, Yellow",Grid,Yes,High complexity Asiri mosaic with a dense grid structure.
+pattern_18_vector.png,Asiri,Dense,High,"Lime, Cyan, Pink",Lines / Dots,No,Complex Asiri vertical stripes with asymmetrical accents.
+pattern_20_vector.png,Najdi,Sparse,Low,"Blue, Orange, Black",Geometric,Yes,Simple Najdi star with internal dotted line segments.
+pattern_21_vector.png,Najdi,Medium,Medium,"Yellow, Pink, Blue",Grid / Triangles,Yes,Balanced Najdi pattern with layered geometric squares.
+pattern_22_vector.png,Sadu,Sparse,Low,"Red, Black, White",Triangles / Lines,Yes,Traditional Sadu pattern with basic line and triangle motifs.
+pattern_23_vector.png,Najdi,Sparse,Low,"Brown, Yellow, White",Triangles,Yes,Minimalist Najdi triangle motif on a solid background.
+pattern_24_vector.png,Asiri,Medium,Medium,"Orange, Black, Blue",Dots / Geometric,Yes,Balanced Asiri motif with a central star and dot accents.
+aug_1_Dense.png,Asiri,Dense,High,"Pink, Black, Blue",Geometric / Grid,Yes,High-density Asiri augmentation with repeating geometric star tiles.
+aug_1_Medium.png,Asiri,Medium,Medium,"Pink, Black, Blue",Geometric,Yes,Tiled Asiri pattern with moderate spacing between geometric motifs.
+aug_2_Dense.png,Najdi,Dense,Medium,"Orange, Brown, White",Triangles / Dots,Yes,Dense Najdi tiling featuring repetitive triangles and circular accents.
+aug_3_Medium.png,Asiri,Medium,Medium,"Pink, Black, Cyan",Geometric,Yes,Balanced Asiri tile layout with a focus on cross-axial symmetry.
+aug_4_Medium.png,Najdi,Medium,Low,"Orange, Brown, White",Triangles,Yes,Repetitive Najdi triangular motifs with clean spacing and low complexity.
+aug_5_Sparse.png,Sadu,Sparse,Low,"Blue, Orange, Grey",Lines,No,Scattered Sadu line motifs with significant negative space.
+aug_6_Dense.png,Sadu,Dense,Medium,"Green, Black, Pink",Lines,Yes,Full-surface Sadu augmentation with dense zigzag line patterns.
+aug_7_Dense.png,Asiri,Dense,High,"Black, Yellow, Cyan",Grid / Dots,Yes,Intricate Asiri grid augmentation with high visual density and detail.
+aug_8_Medium.png,Najdi,Medium,Medium,"Orange, Pink, Brown",Lines / Dots,Yes,Tiled Najdi pattern with repeating vertical lines and dot sequences.
+aug_9_Sparse.png,Najdi,Sparse,Low,"Orange, Pink, Brown",Lines / Dots,No,Najdi augmentation with widely spaced vertical line and dot elements.
+aug_10_Sparse.png,Najdi,Sparse,Medium,"Brown, White, Lime",Triangles / Lines,No,Scattered Najdi diamond and arrow motifs with low visual overlap.
+aug_11_Dense.png,Najdi,Dense,Medium,"Cyan, Black",Grid,Yes,High-density Najdi checkerboard tiling covering the entire frame.
+aug_12_Medium.png,Asiri,Medium,High,"Brown, Teal, Orange",Geometric / Dots,Yes,Tiled Asiri diamonds with detailed borders and moderate density.
+aug_13_Sparse.png,Sadu,Sparse,Low,"Beige, Brown, Green",Triangles,No,Minimalist Sadu augmentation with isolated border triangle motifs.
+aug_14_Dense.png,Najdi,Dense,Medium,"Navy, Orange, Yellow",Geometric,Yes,Dense tiling of Najdi star motifs creating a repetitive pattern.
+aug_15_Sparse.png,Sadu,Sparse,Medium,"White, Blue, Yellow",Lines,No,Sadu tree-like linear motifs distributed sparsely across the field.
+aug_16_Medium.png,Najdi,Medium,Low,"Beige, Green, Brown",Geometric,Yes,Standard Najdi tree motifs repeated in a balanced grid layout.
+aug_17_Dense.png,Asiri,Dense,High,"Red, Blue, Yellow",Grid,Yes,Full-coverage Asiri mosaic tiling with high complexity and detail.
+aug_18_Medium.png,Asiri,Medium,High,"Lime, Cyan, Pink",Lines / Dots,No,Asiri vertical stripe augmentation with varied motif placements.
+aug_19_Medium.png,Najdi,Medium,Medium,"Yellow, Pink, Blue",Geometric / Grid,Yes,Tiled Najdi pattern with repetitive squares and balanced spacing.
+aug_20_Medium.png,Najdi,Medium,Medium,"Yellow, Pink, Blue",Geometric / Grid,Yes,Parallel Najdi augmentation featuring alternating geometric tiles.
+aug_21_Medium.png,Najdi,Medium,Medium,"Yellow, Pink, Blue",Geometric,Yes,Symmetrical Najdi pattern with a focus on layered square motifs.
+aug_22_Dense.png,Sadu,Dense,Medium,"Red, Black, White",Triangles / Lines,Yes,Dense Sadu tiling with repetitive linear and triangular segments.
+aug_23_Medium.png,Sadu,Medium,Medium,"Red, Black, White",Triangles / Lines,Yes,Balanced Sadu augmentation with rhythmic triangle motifs.
+aug_24_Sparse.png,Sadu,Sparse,Low,"Red, Black, White",Triangles / Lines,No,Scattered Sadu elements with focus on negative space.
+aug_25_Sparse.png,Najdi,Sparse,Low,"Brown, Yellow, White",Triangles,No,Minimalist Najdi triangles distributed sparsely across the frame.
+aug_26_Sparse.png,Najdi,Sparse,Low,"Brown, Yellow, White",Triangles,No,Najdi augmentation with isolated triangular motifs.
+aug_27_Medium.png,Asiri,Medium,Medium,"Orange, Black, Blue",Geometric / Dots,Yes,Tiled Asiri pattern with a focus on central star motifs and dots.
+aug_28_Dense.png,Asiri,Dense,High,"Orange, Black, Blue",Geometric / Dots,Yes,High-density Asiri augmentation with overlapping geometric details.
+aug_29_Dense.png,Asiri,Dense,High,"Orange, Black, Blue",Geometric / Dots,Yes,Symmetrical Asiri tiling with high density and overlapping motifs.
+aug_30_Dense.png,Asiri,Dense,High,"Orange, Black, Blue",Geometric / Dots,Yes,Closely packed Asiri augmentation with intricate star and dot details.
+aug_31_Sparse.png,Najdi,Sparse,Low,"Brown, Yellow, White",Triangles,No,Minimalist Najdi elements with wide spacing and simple triangles.
+aug_32_Sparse.png,Najdi,Sparse,Low,"Brown, Yellow, White",Triangles,No,Dispersed Najdi triangular motifs with significant white space.
+aug_33_Medium.png,Sadu,Medium,Medium,"Red, Black, White",Triangles / Lines,Yes,Balanced Sadu grid with rhythmic line and triangle patterns.
+aug_34_Medium.png,Sadu,Medium,Medium,"Red, Black, White",Triangles / Lines,Yes,Regular Sadu tiling showing clear linear and triangular symmetry.
+aug_35_Dense.png,Najdi,Dense,Medium,"Yellow, Pink, Blue",Geometric / Grid,Yes,High-density Najdi square tiling covering the entire frame.
+aug_36_Dense.png,Najdi,Dense,Medium,"Yellow, Pink, Blue",Geometric / Grid,Yes,Repetitive Najdi geometric squares in a dense mosaic-like layout.
+aug_37_Medium.png,Najdi,Medium,Medium,"Yellow, Pink, Blue",Geometric / Grid,Yes,Balanced Najdi square augmentation with consistent spacing.
+aug_38_Sparse.png,Najdi,Sparse,Low,"Yellow, Pink, Blue",Geometric,No,Scattered Najdi squares with an asymmetrical distribution.
+aug_39_Medium.png,Najdi,Medium,Medium,"Yellow, Pink, Blue",Geometric,Yes,Balanced Najdi square augmentation with regular grid distribution.
+aug_40_Medium.png,Najdi,Medium,Medium,"Yellow, Pink, Blue",Geometric,Yes,Symmetrical Najdi tiling featuring repeated geometric squares.
+aug_41_Medium.png,Najdi,Medium,Medium,"Yellow, Pink, Blue",Geometric,Yes,Consistent Najdi augmentation with layered square motifs.
+aug_42_Sparse.png,Najdi,Sparse,Low,"Yellow, Pink, Blue",Geometric,No,Scattered Najdi squares with significant spacing and no symmetry.
+aug_43_Dense.png,Asiri,Dense,High,"Orange, Black, Blue",Geometric / Dots,Yes,High-density Asiri tiling with overlapping star and dot details.
+aug_44_Dense.png,Asiri,Dense,High,"Orange, Black, Blue",Geometric / Dots,Yes,Concentrated Asiri augmentation with intricate mosaic-like patterns.
+aug_45_Dense.png,Asiri,Dense,High,"Orange, Black, Blue",Geometric / Dots,Yes,Full-frame Asiri tiling with high visual complexity and small motifs.
+aug_46_Dense.png,Asiri,Dense,High,"Orange, Black, Blue",Geometric / Dots,Yes,Repetitive Asiri stars and dots in a highly dense grid layout.
+aug_47_Sparse.png,Asiri,Sparse,Medium,"Orange, Black, Blue",Geometric,No,Dispersed Asiri motifs with focus on isolated geometric shapes.
+aug_48_Sparse.png,Asiri,Sparse,Medium,"Orange, Black, Blue",Geometric,No,Asymmetrical Asiri augmentation with low density and clear negative space.
+aug_49_Dense.png,Asiri,Dense,High,"Orange, Black, Blue",Geometric / Dots,Yes,Highly concentrated Asiri tiling with overlapping stars and dots.
+aug_50_Sparse.png,Asiri,Sparse,Medium,"Orange, Black, Blue",Geometric,No,Dispersed Asiri motifs with significant negative space.
+aug_51_Medium.png,Najdi,Medium,Medium,"Yellow, Pink, Blue",Geometric,Yes,Balanced Najdi square augmentation in a regular grid layout.
+aug_52_Medium.png,Najdi,Medium,Medium,"Yellow, Pink, Blue",Geometric,Yes,Symmetrical Najdi tiling featuring repeated geometric squares.
+aug_53_Sparse.png,Najdi,Sparse,Low,"Yellow, Pink, Blue",Geometric,No,Scattered Najdi squares with an asymmetrical distribution.
+aug_54_Medium.png,Najdi,Medium,Medium,"Yellow, Pink, Blue",Geometric,Yes,Consistent Najdi augmentation with layered square motifs.
+aug_55_Medium.png,Najdi,Medium,Medium,"Yellow, Pink, Blue",Geometric,Yes,Tiled Najdi pattern with repetitive squares and balanced spacing.
+aug_56_Medium.png,Najdi,Medium,Medium,"Yellow, Pink, Blue",Geometric,Yes,Parallel Najdi augmentation featuring alternating geometric tiles.
+aug_57_Medium.png,Najdi,Medium,Medium,"Yellow, Pink, Blue",Geometric,Yes,Symmetrical Najdi pattern with a focus on layered motifs.
+aug_58_Medium.png,Najdi,Medium,Medium,"Yellow, Pink, Blue",Geometric,Yes,Regular Najdi square tiling showing clear geometric symmetry.
+aug_59_Sparse.png,Najdi,Sparse,Low,"Brown, Yellow, White",Triangles,No,Minimalist Najdi triangles distributed sparsely with high negative space.
+aug_60_Sparse.png,Najdi,Sparse,Low,"Brown, Yellow, White",Triangles,No,Dispersed Najdi triangular motifs in an asymmetrical layout.
+aug_61_Medium.png,Sadu,Medium,Medium,"Red, Black, White",Triangles / Lines,Yes,Balanced Sadu grid with repetitive line and triangle patterns.
+aug_62_Dense.png,Sadu,Dense,Medium,"Red, Black, White",Triangles / Lines,Yes,Dense Sadu tiling with repetitive linear and triangular segments.
+aug_63_Dense.png,Sadu,Dense,Medium,"Red, Black, White",Triangles / Lines,Yes,Full-coverage Sadu augmentation with high visual density.
+aug_64_Medium.png,Sadu,Medium,Medium,"Red, Black, White",Triangles / Lines,Yes,Regular Sadu tiling showing clear linear and triangular symmetry.
+aug_65_Medium.png,Sadu,Medium,Medium,"Red, Black, White",Triangles / Lines,Yes,Symmetrical Sadu augmentation with rhythmic triangle motifs.
+aug_66_Medium.png,Sadu,Medium,Medium,"Red, Black, White",Triangles / Lines,Yes,Consistent Sadu pattern with a focus on layered geometric lines.
+aug_67_Dense.png,Sadu,Dense,Medium,"Red, Black, White",Triangles / Lines,Yes,Closely packed Sadu augmentation with intricate linear details.
+aug_68_Sparse.png,Sadu,Sparse,Low,"Red, Black, White",Triangles / Lines,No,Scattered Sadu elements focusing on isolated motifs and spacing.
+aug_69_Medium.png,Sadu,Medium,Medium,"Red, Black, White",Triangles / Lines,Yes,Balanced Sadu augmentation with rhythmic triangle patterns.
+aug_70_Sparse.png,Sadu,Sparse,Low,"Red, Black, White",Triangles / Lines,No,Scattered Sadu elements focusing on negative space.
+aug_71_Dense.png,Sadu,Dense,Medium,"Red, Black, White",Triangles / Lines,Yes,Full-coverage Sadu tiling with high visual density.
+aug_72_Medium.png,Sadu,Medium,Medium,"Red, Black, White",Triangles / Lines,Yes,Consistent Sadu pattern with a focus on layered geometric lines.
+aug_73_Medium.png,Najdi,Medium,Medium,"Orange, Pink, Brown",Lines / Dots,Yes,Tiled Najdi pattern with repetitive vertical lines and dots.
+aug_74_Dense.png,Najdi,Dense,Medium,"Orange, Pink, Brown",Lines / Dots,Yes,High-density Najdi tiling with overlapping line and dot details.
+aug_75_Dense.png,Najdi,Dense,Medium,"Orange, Pink, Brown",Lines / Dots,Yes,Closely packed Najdi augmentation with intricate details.
+aug_76_Sparse.png,Najdi,Sparse,Low,"Orange, Pink, Brown",Lines / Dots,No,Scattered Najdi elements focusing on isolated motifs and spacing.
+aug_77_Medium.png,Najdi,Medium,Medium,"Orange, Pink, Brown",Lines / Dots,Yes,Regular Najdi line tiling showing clear geometric symmetry.
+aug_78_Dense.png,Najdi,Dense,Medium,"Orange, Pink, Brown",Lines / Dots,Yes,Full-frame Najdi augmentation with high visual complexity.
+aug_79_Sparse.png,Asiri,Sparse,Medium,"Pink, Black, Blue",Geometric,No,Dispersed Asiri geometric star motifs with high negative space.
+aug_80_Medium.png,Asiri,Medium,Medium,"Pink, Black, Blue",Geometric,Yes,Balanced Asiri augmentation with rhythmic star pattern tiling.
+aug_81_Dense.png,Asiri,Dense,High,"Pink, Black, Blue",Geometric / Grid,Yes,High-density Asiri tiling with overlapping geometric star details.
+aug_82_Sparse.png,Asiri,Sparse,Medium,"Pink, Black, Cyan",Geometric,No,Scattered Asiri motifs focusing on isolated cross-axial shapes.
+aug_83_Dense.png,Asiri,Dense,High,"Pink, Black, Cyan",Geometric / Grid,Yes,Full-frame Asiri mosaic-like tiling with high visual complexity.
+aug_84_Sparse.png,Asiri,Sparse,Medium,"Black, Yellow, Cyan",Grid / Dots,No,Dispersed Asiri grid fragments with asymmetrical dot placements.
+aug_85_Medium.png,Asiri,Medium,High,"Black, Yellow, Cyan",Grid / Dots,Yes,Regular Asiri grid tiling with consistent spacing and detail.
+aug_86_Dense.png,Asiri,Dense,High,"Black, Yellow, Cyan",Grid / Dots,Yes,Closely packed Asiri grid augmentation with intricate details.
+aug_87_Medium.png,Asiri,Medium,High,"Brown, Teal, Orange",Geometric / Dots,Yes,Tiled Asiri diamonds with detailed borders and balanced density.
+aug_88_Sparse.png,Asiri,Sparse,Medium,"Brown, Teal, Orange",Geometric,No,Scattered Asiri diamond motifs with significant negative space.
+aug_89_Medium.png,Asiri,Medium,High,"Brown, Teal, Orange",Geometric / Dots,Yes,Tiled Asiri diamond motifs with detailed borders and balanced spacing.
+aug_90_Dense.png,Asiri,Dense,High,"Brown, Teal, Orange",Geometric / Dots,Yes,High-density Asiri tiling with overlapping diamond and dot details.
+aug_91_Medium.png,Najdi,Medium,Medium,"Blue, Orange, Black",Geometric,Yes,Balanced Najdi star augmentation with regular grid distribution.
+aug_92_Medium.png,Najdi,Medium,Medium,"Blue, Orange, Black",Geometric,Yes,Symmetrical Najdi tiling featuring repeated geometric star motifs.
+aug_93_Medium.png,Najdi,Medium,Medium,"Blue, Orange, Black",Geometric,Yes,Consistent Najdi augmentation with layered geometric patterns.
+aug_94_Sparse.png,Najdi,Sparse,Low,"Blue, Orange, Black",Geometric,No,Scattered Najdi star motifs with high spacing and no symmetry.
+aug_95_Dense.png,Sadu,Dense,Medium,"Red, Black, White",Triangles / Lines,Yes,Full-surface Sadu augmentation with dense rhythmic motifs.
+aug_96_Dense.png,Sadu,Dense,Medium,"Red, Black, White",Triangles / Lines,Yes,Closely packed Sadu tiling with intricate linear and triangular details.
+aug_97_Sparse.png,Sadu,Sparse,Low,"Red, Black, White",Triangles / Lines,No,Scattered Sadu elements focusing on isolated motifs and negative space.
+aug_98_Medium.png,Sadu,Medium,Medium,"Red, Black, White",Triangles / Lines,Yes,Balanced Sadu grid with regular triangular and linear symmetry.
+aug_99_Sparse.png,Sadu,Sparse,Low,"Red, Black, White",Triangles / Lines,No,Scattered Sadu motifs with high negative space and no symmetry.
+aug_100_Dense.png,Sadu,Dense,Medium,"Red, Black, White",Triangles / Lines,Yes,High-density Sadu tiling with closely packed rhythmic motifs.
